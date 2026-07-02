@@ -1,0 +1,20 @@
+# Sales Analytics Insights
+
+## Project Description
+This project performs an exploratory data analysis on a sales dataset to extract actionable business insights. It identifies the top 5 revenue-generating customers and calculates the store's Average Order Value (AOV).
+
+## Features
+- **Data Processing:** Uses `pandas` to aggregate sales data.
+- **Customer Segmentation:** Ranks customers by total spend.
+- **Metric Analysis:** Calculates the store-level Average Order Value (AOV).
+- **Automated Reporting:** Exports high-value customer data to Excel.
+
+## Tech Stack
+- **Language:** Python
+- **Libraries:** pandas, openpyxl
+
+## How to run
+1. Clone the repository.
+2. Install dependencies:
+   ```bash
+   pip install pandas openpyxl
